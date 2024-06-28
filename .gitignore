@@ -1,0 +1,34 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+pnpm-debug.log
+
+api/node_modules/
+client/node_modules/
+api/uploads/
+
+
+# Logs
+logs/
+*.log
+**/logs/
+*.log
+
+# dotenv environment variables file
+.env
+.env.test
+.env.production
+
+# Gatsby files
+.cache/
+
+# Vite cache
+.vite/
+.vitest/
+
+# Optional npm cache directory
+.npm/
+
+# Ignoring ESLint cache files
+.eslintcache
