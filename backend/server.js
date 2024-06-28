@@ -12,7 +12,7 @@ const io = new Server(server, {
   },
 });
 
-let realTime = 3
+let realTime = 10
 let timeInSecond = realTime ;
 let timers = {};
 const startTimes = {}; // to store start times
